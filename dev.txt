@@ -1,0 +1,42 @@
+[REQUEST CODE]
+
+<1000~9000 - 메인 카테고리>
+1000 - 로그인
+2000 - 다이얼로그
+3000 - 기사
+4000 - 포토
+5000 - 뉴스데스크
+6000 - 연합기사
+7000 - 설정
+8000 - 채팅
+
+<x100~x900 - 서브 카테고리>
+3100 - 기사 작성
+3200 - 기사 수정
+3300 - 기사 리스트
+3400 - 기사 로컬 리스트
+
+4100 - 포토 로컬 작성
+4200 - 포토 로컬 수정
+4300 - 포토 로컬 리스트
+4400 - 포토 온라인 작성
+4500 - 포토 온라인 수정
+4600 - 포토 온라인 리스트
+4800 - 포토 온라인 송고
+
+
+5100 - 뉴스데스크 리스트
+5200 - 뉴스데스크 포토 온라인 리스트
+5300 - 뉴스데스크 포토 온라인 출고
+
+6100 - 연합기사 리스트
+
+<xx10~xx90 - 다이얼로그 호출>
+10 - ArticleDataSelectDialog.class
+20 - TemporaryListDialog.class
+30 - CommonConfirmDialog.class
+40 - CommonSelectDialog.class
+50 - DatePickerDialog.class
+60 - PhotoSelectDialog.class
+70 - NewsdeskReleaseDialog.class
+80 - TimeSelectDialog.class
